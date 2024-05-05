@@ -1,0 +1,15 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  margin-left: 500px;
+}
+h2 {
+  color: magenta;
+}
+.text {
+  color: darkolivegreen;
+  font-size: 20px;
+}
